@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
-title: Bienvenue au laboratoire d'expérimentation coquille
-description: Ma description de quelque chose.
-github.repository_url: http://www.google.com
+title: Expérimentation coquille.
+description: Une expérimentation de coquille qui se veut une coquille mais n'est pas encore une coquille.
+organisation_repos_url: http://www.google.com
+show_downloads: true
