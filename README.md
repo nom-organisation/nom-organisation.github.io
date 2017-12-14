@@ -2,7 +2,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac metus sed purus mattis egestas. Maecenas interdum nec orci id ultrices. Etiam dignissim consectetur arcu quis elementum. Aliquam erat volutpat. Donec id turpis dui. Quisque tortor ligula, venenatis ac nibh ut, lobortis consectetur ex. Duis imperdiet tortor in felis placerat, vel iaculis dolor accumsan.
 
-[![Présentation vidéo](http://img.youtube.com/vi/tvqhME7IdeE/0.jpg)](http://www.youtube.com/watch?v=tvqhME7IdeE)
+[![Présentation vidéo](http://img.youtube.com/vi/0D1uxm9p1lc/0.jpg)](http://www.youtube.com/watch?v=0D1uxm9p1lc)
 
 Pour toute la documentation, consulter [le Wiki du projet](https://github.com/nom-organisation/nom-organisation.github.io/wiki).
 
