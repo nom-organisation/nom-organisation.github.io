@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: Expérimentation coquille.
 description: Une expérimentation de coquille qui se veut une coquille mais n'est pas encore une coquille.
 organisation_repos_url: https://github.com/nom-organisation
-show_downloads: true
+show_downloads: false
