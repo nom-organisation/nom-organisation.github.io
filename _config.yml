@@ -3,6 +3,7 @@ title: Expérimentation coquille.
 description: Une expérimentation de coquille qui se veut une coquille mais n'est pas encore une coquille.
 organisation_repos_url: https://github.com/nom-organisation
 show_downloads: false
+google_analytics: UA-114069620-1
 
 gems:
   - jekyll-octicons
